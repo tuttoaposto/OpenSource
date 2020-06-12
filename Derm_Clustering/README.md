@@ -2,8 +2,8 @@
 
 #### Open Source Projects
 
-Projects saved here are for practicing data science concepts using open source data
-- Aim at understanding the features for different types of dermatology diseases
+Projects saved here are for practising data science concepts using open source data
+- Aim at understanding the features of different types of dermatology diseases
 
 - Techniques include PCA and K-Means clustering
 
@@ -13,4 +13,4 @@ Projects saved here are for practicing data science concepts using open source d
 
   3. 3D scatter plot for K-Means clustering of the first three PCs to entertain human eyes ![3d](https://github.com/tuttoaposto/OpenSource/blob/master/Derm_Clustering/Derm_3D_KMeans.png)
 
-  4. Besides K-Means, are better ways to cluster this data? ![compare clustering](https://github.com/tuttoaposto/OpenSource/blob/master/Derm_Clustering/Derm_Compare_Clustering.png)
+  4. Are there better ways to cluster this data? Looks like K-Means is the winner.![compare clustering](https://github.com/tuttoaposto/OpenSource/blob/master/Derm_Clustering/Derm_Compare_Clustering.png)

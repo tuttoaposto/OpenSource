@@ -15,7 +15,7 @@
   - Customize refit scoring to pick unique set of hyperparameters if multiple sets achieve the same best test score
   - Compare models with ROC and precision-recall curve (PRC)
 
-  1.  ![Scree](https://github.com/tuttoaposto/OpenSource/blob/master/Derm_Clustering/Derm_ScreePlot.png)
+  1.  ![Scree](Results/ROC_PRC.png/)
 
 
   

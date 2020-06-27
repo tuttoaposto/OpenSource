@@ -10,7 +10,7 @@
   - Random forest
   - Gradient boosting
   - XGBoost
-  - Feature importance with XGBoost Plot_ importance()
+  - Feature importance using XGBoost Plot_ importance()
   ![FI](Results/XGB_Feature_Importance.png/)
   - Customize cv scoring
   - Customize refit scoring to pick unique set of hyperparameters if multiple sets achieve the same best test score

@@ -18,18 +18,18 @@
   ![ROC_PRC](Results/ROC_PRC.png/)
 
 
-  
+
 - ### Comments
 
   #### Results
 
   - Based on F1-macro score, the `winning model is XGBoost!`
-  - XGBoost has the highest values for other metrics as well except for AUC(ROC)
-  - XGBoost with missing value imputation achieved higher F1 score than without imputation
+  - XGBoost had the highest values for other metrics as well except for AUC(ROC)
+  - XGBoost with and without missing value imputation achieved the same F1 score
     - It might be data-dependent, need larger sample size to justify this
-  - Surprisingly, gradient boosting didn't do better than other skillful classifiers
+  - Surprisingly, logistic regression classifier performed better than tree-based algorithms
   - SVC had the worst area under precision-recall curve
-  - F1 score is more differentiating than AUC(ROC)
+  - F1 score was more differentiating than AUC(ROC)
     - This phenonmenon can also be observed in ROC vs precision-recall curve (PRC)
     - With skewed class distributions, especially when modifying multiclass classification problem to one-over-rest (ovr) classification, large amount of true negatives gives rise to low false positive rate and hence too optimistic AUC(ROC)
   - Dummy classifier, as expected, has zero predicting power; its kappa is no better than chance agreement

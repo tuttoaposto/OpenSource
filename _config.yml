@@ -1,0 +1,12 @@
+title: Open Source Projects
+author: tuttoaposto
+# email: your-email@domain.com
+description: This site shows the projects I did using open data.
+
+
+# social links
+# twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  tuttoaposto
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima

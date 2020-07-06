@@ -1,5 +1,5 @@
 ---
-title: "Welcome to My Data Science Projects!"
+title: "Welcome to My Data Science Projects!U+1F9E1"
 date: 2020-07-05
 ---   
 

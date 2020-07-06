@@ -7,7 +7,7 @@ description: |  # The following block of text will be the entire value for descr
       
   About me: I am a data analyst from the San Francisco Bay Area. Love salsa dancing 💃 and running 🏃‍♀️.
    
-image: https://github.com/tuttoaposto/OpenSource/blob/master/DBS_Westie_1280.jpg
+# image: https://github.com/tuttoaposto/OpenSource/blob/master/DBS_Westie_1280.jpg
 # social links
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  tuttoaposto

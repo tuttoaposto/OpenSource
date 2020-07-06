@@ -3,11 +3,11 @@ title: "Welcome to My Data Science Projects!"
 date: 2020-07-05
 ---   
 
-### My self-directed projects sourced from open data sources
+### Recent Projects
 - [Dermatology Clustering](https://tuttoaposto.github.io/OpenSource/Derm_Clustering/README.html) ([Jupyter Notebook](https://github.com/tuttoaposto/OpenSource/blob/master/Derm_Clustering/Derm_Clustering.ipynb))
 - [Dermatology Classificaton](https://tuttoaposto.github.io/OpenSource/Derm_Classification/README.html) ([Jupyter Notebook](https://github.com/tuttoaposto/OpenSource/blob/master/Derm_Classification/Derm_Classification.ipynb))
 
-### Visit My Other Projects in Jupyter Notebook
+### More Projects in Jupyter Notebook
 - [Blight Ticket Compliance Prediction](https://github.com/tuttoaposto/U_Michi_Applied_Data_Science_with_Python_Specialization_3/blob/master/3.4_Applied_ML_Blight_Ticket_Prediction.ipynb)
   - Predict which violators would pay for the ticket ontime or not.      
 - [Ann Arbor Weather Analysis](https://github.com/tuttoaposto/U_Michi_Applied_Data_Science_with_Python_Specialization_2/blob/master/2.4_Applied_Plot_Ann_Arbor_Weather_Analysis.ipynb)

@@ -1,4 +1,7 @@
-# Dermatology Clustering
+---
+title: "Dermatology - PCA and Clustering"
+date: 2020-06-26
+---
 
 * Aim at understanding the features of different types of dermatology diseases
 

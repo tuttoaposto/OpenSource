@@ -5,8 +5,8 @@ date: 2020-07-05
 
 
 ### My self-directed projects sourced from open data sources
-- [Dermatology Clustering](https://tuttoaposto.github.io/OpenSource/Derm_Clustering/) ([Jupyter Notebook](https://github.com/tuttoaposto/OpenSource/blob/master/Derm_Classification/Derm_Clustering.ipynb))
-- [Dermatology Classificaton](https://tuttoaposto.github.io/OpenSource/Derm_Classification/) ([Jupyter Notebook](https://github.com/tuttoaposto/OpenSource/blob/master/Derm_Classification/Derm_Classification.ipynb))
+- [Dermatology Clustering](https://github.com/tuttoaposto/OpenSource/blob/master/Derm_Clustering/README.md) ([Jupyter Notebook](https://github.com/tuttoaposto/OpenSource/blob/master/Derm_Classification/Derm_Clustering.ipynb))
+- [Dermatology Classificaton](https://tuttoaposto.github.io/OpenSource/Derm_Classification/README.md) ([Jupyter Notebook](https://github.com/tuttoaposto/OpenSource/blob/master/Derm_Classification/Derm_Classification.ipynb))
 
 ### Visit My Other Projects in Jupyter Notebook
 - [Blight Ticket Compliance Prediction](https://github.com/tuttoaposto/U_Michi_Applied_Data_Science_with_Python_Specialization_3/blob/master/3.4_Applied_ML_Blight_Ticket_Prediction.ipynb)

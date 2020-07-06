@@ -1,7 +1,8 @@
 ---
-title: "Compare Different Classification Algorithms"
+title: "Dermatology - Classification Algorithms"
 date: 2020-06-26
 ---
+
 - Aim at correctly classifying diseases based on their clinical and histopathological features
 
 - Techniques include:

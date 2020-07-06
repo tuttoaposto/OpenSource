@@ -14,4 +14,4 @@ description: |  # The following block of text will be the entire value for descr
 github_username:  tuttoaposto
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+# theme: minima

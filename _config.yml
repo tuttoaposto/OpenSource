@@ -1,8 +1,9 @@
 title: My Data Science Projects 🦉 
 date: 2020-07-05
 header_pages:
-  - /Dermatology_Clustering/README.md
-  - /Dermatology_Classification/README.md
+  - Dermatology_Clustering/README.md
+  - Dermatology_Classification/README.md
+  - index.md
   
 author: tuttoaposto 🦉
 # email: your-email@domain.com

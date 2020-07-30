@@ -2,7 +2,9 @@ title: My Data Science Projects 🦉
 date: 2020-07-05
 header_pages:
   - index.md
-  
+plugins:
+  - jekyll-seo-tag
+   
 author: tuttoaposto 🦉
 # email: your-email@domain.com
 description: |  # The following block of text will be the entire value for description

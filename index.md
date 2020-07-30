@@ -1,8 +1,8 @@
 ---
 title: "Welcome to My Data Science Projects!"
 date: 2020-07-05
+image: https://github.com/tuttoaposto/OpenSource/blob/master/DBS_Westie_1280.jpg
 ---   
-<meta property="og:image" content="https://avatars1.githubusercontent.com/u/11873426?s=460&u=33686d14eb97f0c469f464346682b611d7dd6302&v=4">
   
 ### Recent Projects
 - [Dermatology Clustering](https://tuttoaposto.github.io/OpenSource/Derm_Clustering/README.html) ([Jupyter Notebook📔](https://github.com/tuttoaposto/OpenSource/blob/master/Derm_Clustering/Derm_Clustering.ipynb){:target="_blank"})
